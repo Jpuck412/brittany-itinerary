@@ -1,0 +1,12 @@
+{
+  "name": "Brittany Trip",
+  "short_name": "Brittany",
+  "description": "Brittany's private travel command center",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#10251d",
+  "orientation": "portrait",
+  "lang": "en-US",
+  "categories": ["travel", "lifestyle"]
+}
